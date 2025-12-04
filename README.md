@@ -1,6 +1,6 @@
 # Documentation Repository
 
-This repository contains all documentation associated with the **WSI Segmentation System**, including setup guides, architecture overviews, handover documents, technical specifications, and operational procedures.
+This repository contains all documentation associated with the **WSI Plaque Analysis Platform**, including setup guides, architecture overviews, handover documents, technical specifications, and operational procedures.
 
 It serves as the central knowledge base for developers, maintainers, collaborators, and research partners who work with or support the system.
 
